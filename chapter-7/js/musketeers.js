@@ -10,6 +10,7 @@ const musketeers = ["Athos","Porthos","Aramis"];
 for (var i = 0; i <musketeers.length; i++) {
   musketeers[i];
   }
+
   musketeers.push("D'Artagnan");
   musketeers.forEach(person => {
     console.log(person);
