@@ -1,0 +1,1 @@
+alert("word-info.js")
