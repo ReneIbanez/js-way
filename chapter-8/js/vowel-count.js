@@ -7,7 +7,6 @@ let vowels =['a','e','i','o','u']
 let count = 0;
 let length = userWord.length
 
-
 for (var i = 0; i < lowercase.length; i++) {
   let userWordIndex = lowercase[i];
 for (var j = 0; j < vowels.length; j++) {
@@ -18,8 +17,6 @@ for (var j = 0; j < vowels.length; j++) {
   }
 }
 console.log(count);
-
-
 
 
 // let userWord = prompt("give me a word and get the length");
